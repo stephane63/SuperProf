@@ -4,5 +4,6 @@ import java.util.Date;
 
 public class Planning {
 	Date date;
+	int i;
 
 }
